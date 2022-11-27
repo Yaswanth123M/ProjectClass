@@ -16,5 +16,20 @@ public class ClassA {
 		System.out.println("3");
 
 	}
+	
+	private void india() {
+		System.out.println("India");
+
+	}
+	
+	private void australia() {
+		System.out.println("AUS");
+
+	}
+	
+	private void usa() {
+		System.out.println("USA");
+
+	}
 
 }
